@@ -1,1 +1,5 @@
 This is a file I'm making to practice the flow of using git and github together.
+
+Now I'm making changes to see if my git status will change to red.
+
+Having trouble getting the status warning to turn green.
